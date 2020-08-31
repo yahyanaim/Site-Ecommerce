@@ -1,0 +1,13 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+Admin Login : 
+
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: yahyanaim2001@gmail.com
+Password: 12345678@A
